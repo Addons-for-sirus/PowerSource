@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: PowerSource
+## Version: 1.1.0
+## Notes: Adds the name of the player who cast a buff or debuff to its tooltip.
+## Author: L'ombra
+
+PowerSource.lua
